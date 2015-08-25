@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.zkoss.zk.grails</groupId>
+  <artifactId>zul</artifactId>
+  <version>5.0.7.1</version>
+  <versioning>
+    <versions>
+      <version>5.0.7.1</version>
+      <version>5.0.8.FL.20110808</version>
+      <version>5.0.8.FL.20110815</version>
+      <version>5.0.8.FL.20110817</version>
+      <version>5.0.8.FL.20110818</version>
+      <version>5.0.8.FL.20110819</version>
+      <version>5.0.8.FL.20110822</version>
+      <version>5.0.8.FL.20110823</version>
+      <version>5.0.8.FL.20110825</version>
+      <version>5.0.8.FL.20110826</version>
+      <version>5.0.8</version>
+      <version>5.0.9</version>
+    </versions>
+    <lastUpdated>20111128152006</lastUpdated>
+  </versioning>
+</metadata>

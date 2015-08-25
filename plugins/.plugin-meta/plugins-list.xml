@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugins revision="147">
+    <plugin name="zk" latest-release="1.0-M4">
+        <release tag="RELEASE_0_7_5" type="svn" version="0.7.5">
+            <title>ZK for Grails</title>
+            <author>chanwit</author>
+            <authorEmail>chanwit@gmail.com</authorEmail>
+            <description>\
+Derived from Flyisland ZK Grails Plugin,
+this plugin adds ZK Ajax framework (www.zkoss.org)
+support to Grails applications.
+</description>
+            <documentation>http://grails.org/Zk+Plugin</documentation>
+            <file>http://zkgrails.googlecode.com/svn/plugins/grails-zk/tags/RELEASE_0_7_5/grails-zk-0.7.5.zip</file>
+        </release>
+        <release tag="RELEASE_0_7_6" type="svn" version="0.7.6">
+            <title>ZK for Grails</title>
+            <author>chanwit</author>
+            <authorEmail>chanwit@gmail.com</authorEmail>
+            <description>\
+Derived from Flyisland ZK Grails Plugin,
+this plugin adds ZK Ajax framework (www.zkoss.org)
+support to Grails applications.
+</description>
+            <documentation>http://grails.org/Zk+Plugin</documentation>
+            <file>http://zkgrails.googlecode.com/svn/plugins/grails-zk/tags/RELEASE_0_7_6/grails-zk-0.7.6.zip</file>
+        </release>
+        <release tag="RELEASE_0_7_8" type="svn" version="0.7.8">
+            <title>ZKGrails: ZK plugin for Grails</title>
+            <author>chanwit</author>
+            <authorEmail>chanwit@gmail.com</authorEmail>
+            <description>\
+Originated from Flyisland ZK Grails Plugin,
+this plugin adds ZK Ajax framework (www.zkoss.org) support to Grails applications.
+</description>
+            <documentation>http://grails.org/plugin/zk</documentation>
+            <file>http://zkgrails.googlecode.com/svn/plugins/grails-zk/tags/RELEASE_0_7_8/grails-zk-0.7.8.zip</file>
+        </release>
+        <release tag="RELEASE_1_0-M1" type="svn" version="1.0-M1">
+            <title>ZK for Grails</title>
+            <author>chanwit</author>
+            <authorEmail>chanwit@gmail.com</authorEmail>
+            <description>\
+Derived from Flyisland ZK Grails Plugin,
+this plugin adds ZK Ajax framework (www.zkoss.org)
+support to Grails applications.
+</description>
+            <documentation>http://grails.org/Zk+Plugin</documentation>
+            <file>http://zkgrails.googlecode.com/svn/plugins/grails-zk/tags/RELEASE_1_0-M1/grails-zk-1.0-M1.zip</file>
+        </release>
+        <release tag="RELEASE_1_0-M3" type="svn" version="1.0-M3">
+            <title>ZKGrails: ZK plugin for Grails</title>
+            <author>chanwit</author>
+            <authorEmail>chanwit@gmail.com</authorEmail>
+            <description>\
+Originated from Flyisland ZK Grails Plugin,
+this plugin adds ZK Ajax framework (www.zkoss.org) support to Grails applications.
+</description>
+            <documentation>http://grails.org/plugin/zk</documentation>
+            <file>http://zkgrails.googlecode.com/svn/plugins/grails-zk/tags/RELEASE_1_0-M3/grails-zk-1.0-M3.zip</file>
+        </release>
+        <release tag="RELEASE_1_0-M4" type="svn" version="1.0-M4">
+            <title>ZKGrails: ZK plugin for Grails</title>
+            <author>chanwit</author>
+            <authorEmail>chanwit@gmail.com</authorEmail>
+            <description>\
+Originated from Flyisland ZK Grails Plugin,
+this plugin adds ZK Ajax framework (www.zkoss.org) support to Grails applications.
+</description>
+            <documentation>http://grails.org/plugin/zk</documentation>
+            <file>https://zkgrails.googlecode.com/svn/plugins/grails-zk/tags/RELEASE_1_0-M4/grails-zk-1.0-M4.zip</file>
+        </release>
+    </plugin>
+    <plugin name="zk-ee" latest-release="1.0-M4">
+        <release tag="RELEASE_1_0-M4" version="1.0-M4" type="svn">
+            <title>Enterprise Addons for ZK plugin for Grails</title>
+            <author>Chanwit Kaewkasi</author>
+            <authorEmail/>
+            <description>\
+This plugin contains addition jars required for enabling ZK Enterprise features.
+</description>
+            <documentation>http://grails.org/plugin/zk-ee</documentation>
+            <file>https://zkgrails.googlecode.com/svn/plugins/grails-zk-ee/tags/RELEASE_1_0-M4/grails-zk-ee-1.0-M4.zip</file>
+        </release>
+    </plugin>
+</plugins>

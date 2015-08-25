@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>org.zkoss.zk.grails</groupId>
+  <artifactId>zk-grails-common</artifactId>
+  <version>1.0.0.BUILD-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20120403.185303</timestamp>
+      <buildNumber>8</buildNumber>
+    </snapshot>
+    <lastUpdated>20120403185303</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>1.0.0.BUILD-20120403.185303-8</value>
+        <updated>20120403185303</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>1.0.0.BUILD-20120403.185303-8</value>
+        <updated>20120403185303</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
